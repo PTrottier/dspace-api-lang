@@ -45,7 +45,7 @@ Language packs are automatically installed into DSpace via Maven dependencies. I
 
 ## Other tools
 
-### checkkey.pl
+### checkkeys.pl
 
 This is a handy Perl tool for determining which message keys are present in one properties file versus another.  This is useful for determining whether a translation is complete.  If you run:
 
